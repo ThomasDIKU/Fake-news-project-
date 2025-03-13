@@ -7,3 +7,6 @@
 - `10,000_rows.csv` is a large sample of the full dataset that can be used when we want to run our preprocessing pipeline on a dataset of decent size, but we do not want it to take hours to run. 
 - `10,000_rows.csv` is a preprocessed sample of the full dataset that can be used when we want to work with the preprocessed data, but the preprocessed full dataset is too heavy.
 - `250_rows.csv` is a small sample of the full dataset that is used for part 1, task 1.
+
+## Other files
+- `preprocessing.pdf` is the output of the preprocessing pipeline runned on the full dataset.
