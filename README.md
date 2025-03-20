@@ -11,4 +11,4 @@ Alternatively you can run the preprocessing code on the full dataset and create 
 - `250_rows_preprocessed.csv` is the preprocessed small sample of the full dataset that is used for part 1, task 1.
 
 ## Other files
-- `preprocessing.pdf` is the output of the preprocessing pipeline runned on the full dataset.
+- `preprocessing.pdf` is the output of the preprocessing pipeline run on the full dataset.
