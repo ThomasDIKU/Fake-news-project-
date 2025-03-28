@@ -37,7 +37,7 @@ jupyter notebook
 4. Open the .ipynb file that you want to run (e.g. `part1_preprocessing.ipynb`). Run either a selected kode cell by pressing the 'play' icon, or run the entire script by clicking `Run -> Run All Cells`.
 
 #### Disclaimer 
-We used google colab to train and test the advanced model. The jypitor notebooks: "part3_advancedModel.ipynb" and "part4_evaluationAdvancedModel.ipynb" get the data from my personal drive when run on google colab. However if you wish to run it yourself, the data used is provided in the misc folder and the dropbox links. https://www.dropbox.com/scl/fi/xpzzii0mns4f2vtzptq82/tokenizer.pkl?rlkey=o6umee4gaeyqet2ryooq3cmka&st=3fpxc9cn&dl=0
+We used google colab to train and test the advanced model. The jypitor notebooks: "part3_advancedModel.ipynb" and "part4_evaluationAdvancedModel.ipynb" get the data from my personal drive when run on google colab. However if you wish to run it yourself, the data used is provided in the misc folder and the dropbox links. 
 
 ## Description of data in `BBC_data` folder
 - `BBC_preprocessed.csv` is the BBC articles that was scraped as part of individuel assignment 2, which has been preprocessed in our preprocessing pipeline. 
@@ -75,3 +75,4 @@ We used google colab to train and test the advanced model. The jypitor notebooks
 - `995,000_rows_preprocessed_train.csv` is the training data from the full preprocessed dataset and is available on Dropbox here: https://www.dropbox.com/scl/fi/ttvp5r1u2xiuo0isj7kk0/995-000_rows_preprocessed_train.csv?rlkey=ll0mhyrf6jvgde0wc7m7cs9ve&st=te2juxnc&dl=0
 - `995,000_rows_preprocessed_valid.csv` is the validation data from the full preprocessed dataset and is available on Dropbox here: https://www.dropbox.com/scl/fi/c8845w5vr2k087f7e1ii1/995-000_rows_preprocessed_valid.csv?rlkey=ao7se9oo8jfd53djdm32b83ju&st=7df2uig1&dl=0
 - `995,000_rows_preprocessed_test.csv` is the training data from the full preprocessed dataset and is available on Dropbox here: https://www.dropbox.com/scl/fi/huzi9hmf26bjzi1s3z9qu/995-000_rows_preprocessed_test.csv?rlkey=x0cazpvn6vx8lx8zu2m1fefkc&st=2f1nvm15&dl=0
+- `tokenize.pkl` is the trained tokenizer and is available on Dropbox here:https://www.dropbox.com/scl/fi/xpzzii0mns4f2vtzptq82/tokenizer.pkl?rlkey=o6umee4gaeyqet2ryooq3cmka&st=3fpxc9cn&dl=0
