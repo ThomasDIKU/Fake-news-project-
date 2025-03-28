@@ -56,7 +56,7 @@ Alternatively you can run the preprocessing code on the full dataset and create 
 - `part4_evaluationAdvancedModel.ipynb` is the code for part 4, but only regarding the evaluation of the advanced model.
 
 #### Disclaimer 
-We used google colab to train and test the advanced model. The jypitor notebooks get the data from my personal drive when run on google colab. However if you wish to run it yourself, the data used is provided in the misc folder. 
+We used google colab to train and test the advanced model. The jypitor notebooks: "part3_advancedModel.ipynb" and "part4_evaluationAdvancedModel.ipynb" get the data from my personal drive when run on google colab. However if you wish to run it yourself, the data used is provided in the misc folder and the dropbox links.
 
 ## Description of other files
 - `part1_preprocessing.pdf` is the output of `part1_preprocessing.ipynb` run on the full dataset (which includes the output of the 'exploration code' which plots and graphs).
