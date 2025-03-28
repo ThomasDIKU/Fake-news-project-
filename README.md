@@ -67,7 +67,9 @@ We used google colab to train and test the advanced model. The jypitor notebooks
 - `part3_advancedModel.ipynb` is the code for part 3.
 - `part4_evaluationLogisticReg.ipynb` is the code for part 4, but only regarding the evaluation of the logistic regression model.
 - `part4_evaluationAdvancedModel.ipynb` is the code for part 4, but only regarding the evaluation of the advanced model.
+- `part4_evaluationAdvancedModel_LIAR.ipynb` is the code for part 3, but only regarding the evaluation of the advanced model in terms of LIAR dataset.
 - `preprocessingFunctions.ipynb` is the function used for preprocessing: `clean_text()`, `tokenize()`, `removeStopWords()` and `stemming()`.
+
 
 ## Description of data on `dropbox`
 - `995,000_rows_preprocessed_train.csv` is the training data from the full preprocessed dataset and is available on Dropbox here: https://www.dropbox.com/scl/fi/ttvp5r1u2xiuo0isj7kk0/995-000_rows_preprocessed_train.csv?rlkey=ll0mhyrf6jvgde0wc7m7cs9ve&st=te2juxnc&dl=0
